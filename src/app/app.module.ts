@@ -7,6 +7,8 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { CursosComponent } from './cursos/cursos.component';
 
+import { MaterializeModule } from 'angular2-materialize';
+
 @NgModule({
   declarations: [
     AppComponent,
